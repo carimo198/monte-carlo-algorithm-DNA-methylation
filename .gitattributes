@@ -13,3 +13,4 @@
 *.R  	  text
 *.Rproj text
 *.Rmd   linguist-language=R
+*.html linguist-detectable=false
